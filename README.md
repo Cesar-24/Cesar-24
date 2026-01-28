@@ -1,4 +1,4 @@
-- 👋 Hi, I'm @Cesar-24
+- 👋 Hi, I'm César
 - 🌱 I am currently learning to program in C#
 - 💞️ I am looking to collaborate
 - 📫 How to contact me cddemichele@gmail.com 
